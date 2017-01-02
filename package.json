@@ -1,0 +1,22 @@
+{
+  "name": "hyper-joker",
+  "version": "0.0.1",
+  "description": "A crazy hyper theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakey-wan-kenobi/hyper-joker.git"
+  },
+  "keywords": [
+    "hyper"
+  ],
+  "author": "jakey-wan-kenobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakey-wan-kenobi/hyper-joker/issues"
+  },
+  "homepage": "https://github.com/jakey-wan-kenobi/hyper-joker#readme"
+}
